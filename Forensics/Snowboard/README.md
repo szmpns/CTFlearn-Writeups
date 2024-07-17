@@ -16,7 +16,7 @@ We can see `CTFlearn{CTFIsEasy!!!}` string but it unfortunately is not the flag.
 
 ### Step-3: Base64
 
-We always want to check strings ending with `==`. It give us straight information that it is base64 encoded.
+We always want to check strings ending with `==`. It gives us straight information that it is base64 encoded.
 
 Below the false flag there was this sequence:
 `Q1RGbGVhcm57U2tpQmFuZmZ9Cg==`
