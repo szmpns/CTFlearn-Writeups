@@ -6,7 +6,7 @@
 
 `https://mega.nz/#!SDpF0aYC!fkkhBJuBBtBKGsLTDiF2NuLihP2WRd97Iynd3PhWqRw `
 
-![jpg](Computer-Password-Security-Hacker - Copy.jpg)
+![jpg](copy.jpg)
 
 ### Step-2: Exiftool + Grep
 
