@@ -18,7 +18,7 @@ Just paste `exiftool abondoned_street_challenge2.jpg` and search for dimensions.
 Image Width                     : 2016
 Image Height                    : 900
 ```
-Your goal is to make `abondoned_street_challenge2.jpg` 2016x2016.
+Our goal is to make `abondoned_street_challenge2.jpg` 2016x2016.
 
 ### Step-3: Decimal to Hexadecimal
 
