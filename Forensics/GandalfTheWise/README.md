@@ -16,7 +16,7 @@ There are three interesting strings. One is definitely encoded with `base64`.
 
 ### Step-3: Base64
 
-![base64](minionsbinwalk.png)
+![base64](gandalfbase64.png)
 
 `CTFlearn{xor_is_your_friend}`
 
