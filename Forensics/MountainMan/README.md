@@ -1,6 +1,6 @@
 # MountainMan       
 
-The hint by aothor is important.
+The hint by author is important.
 
 `Don't be fooled by two 0xffd9 markers. xor is your friend.`
 
