@@ -8,9 +8,11 @@ Link: https://mega.nz/#!zD4wDYiC!iLB3pMJElgWZy6Bv97FF8SJz1KEk9lWsgBSw62mtxQg
 
 ### Step-2: RSA decoder
 
-Go to: https://www.dcode.fr/rsa-cipher
+`1` Go to: https://www.dcode.fr/rsa-cipher
 
-Paste the appropriate values.
+`2` Paste the appropriate values.
+
+`3` Press `CALCULATE/DECRYPT`.
 
 ![RSA](rsascreen.png)
 
