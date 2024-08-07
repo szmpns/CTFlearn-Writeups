@@ -1,6 +1,6 @@
 # QR Code          
 
-Did you know that QR codes were invented in 1994 by a Japanese company called `Denso Wave`? Initially designed to track automotive parts during manufacturing, `QR codes` can now store a variety of information and are widely used for everything from payment systems to marketing. Interestingly, `Denso Wave` chose not to exercise its patent rights, allowing QR codes to become a global standard without licensing fees.
+Did you know that `QR codes` were invented in 1994 by a Japanese company called `Denso Wave`? Initially designed to track automotive parts during manufacturing, `QR codes` can now store a variety of information and are widely used for everything from payment systems to marketing. Interestingly, `Denso Wave` chose not to exercise its patent rights, allowing QR codes to become a global standard without licensing fees.
 
 ### Step-1: Download the .png
 
