@@ -26,7 +26,7 @@ We have to decode `ASCII in Cesar` cipher.
 
 This script is gonna help us:
 
-```
+```python
 def ascii_caesar_shift_decrypt(message, shift):
     decrypted = ""
     for char in message:
