@@ -14,7 +14,7 @@ https://mega.nz/#!7aoVEKhK!BAohJ0tfnP7bISIkbADK3qe1yNEkzjHXLKoJoKmqLys
 
 Mine is:
 
-```
+```python
 with open("data.dat" , "r") as file:
     data  = file.readlines()
 
