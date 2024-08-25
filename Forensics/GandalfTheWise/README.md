@@ -30,7 +30,7 @@ XOR is commutative. This means that the result of the XOR operation does not dep
 
 I wrote a python script:
 
-```
+```python
 import base64
 
 a = "xD6kfO2UrE5SnLQ6WgESK4kvD/Y/rDJPXNU45k/p"
