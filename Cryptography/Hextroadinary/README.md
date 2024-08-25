@@ -12,7 +12,7 @@ It gives us straight information that we gotta XOR given Hex numbers.
 
 I wrote simple script:
 
-```
+```python
 text = hex(0xc4115 ^ 0x4cf8)
 
 print(text)
