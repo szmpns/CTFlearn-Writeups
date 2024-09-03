@@ -13,9 +13,11 @@ Let's unpack it.
 We receive two `.png` files.
 
 `1.png`
+
 ![png](1.png)
 
 `2.png`
+
 ![png](2.png)
 
 ### Step-3: Stegsolve
